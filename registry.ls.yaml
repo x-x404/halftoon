@@ -1,0 +1,8 @@
+namespace: io.github.x-x404.halftoon
+
+linked-objects-in-files:
+  "Half Toon.blend": "Main"
+versions:
+  0.0.1:
+    tag: 0.0.1
+    release-file: halftoon-0.0.1.zip
